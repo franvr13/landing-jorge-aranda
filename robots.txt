@@ -1,4 +1,5 @@
 User-agent: *
 Allow: /
 
+# Mapa del sitio para rastreadores
 Sitemap: https://jorge-aranda.vercel.app/sitemap.xml
