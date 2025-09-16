@@ -1,0 +1,57 @@
+# Node modules
+node_modules/
+
+# Build output
+dist/
+build/
+out/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDEs and editors
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Misc
+*.log
+*.tgz
+
+# Dependency directories
+jspm_packages/
+
+# Next.js
+.next/
+
+# Svelte
+.svelte-kit/
+
+# Coverage directory
+coverage/
+
+# Parcel
+.cache/
+
+# Storybook
+.storybook-out/
+
+# Mac system files
+*.DS_Store
+
+# Windows system files
+ehthumbs.db
+Desktop.ini
